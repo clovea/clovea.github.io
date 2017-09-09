@@ -16,8 +16,8 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: /*url(../images/IMG_4465.jpg)*/ no-repeat center top;
-	background-color:grey;
+    background: /*url(../images/IMG_4465.jpg) */no-repeat center top;
+	background-color: grey;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -467,9 +467,9 @@ span.border.one:after {
 	-ms-border-radius:1.5em;
 }
 .about-right{
-	    float: left;
+	float: left;
 	padding:0;
-	background:url(../images/about-pic.jpg) no-repeat 0px 0px;
+	background:url(../images/IMG_4465.jpg) no-repeat 0px 0px;
 	min-height:580px;
 	background-size: cover;
    -o-background-size: cover;
